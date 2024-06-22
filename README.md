@@ -15,7 +15,9 @@ Tasks carried out throughout the analysis:
 8. Producing various reports to identify churn factors such as churn rate, number of churned customers, and churned customer groups
 9. Extracting insights from reports
 10. Designing dashboards.
+    
 Some detailed key insights uncovered:
+
 - Customers on monthly contracts have a significantly higher churn rate of 46.29% compared to those on yearly contracts, which have a churn rate of only 6.62%.
 - The churn rate for customers with unlimited data plans is 32.11%, which is notably higher than 16.10% churn rate for those without unlimited data plans.
 - The most common reasons for churn are related to competitors, including better offers (44.82%) and better products or services (15.98%)

@@ -1,4 +1,6 @@
 # Case-Study-Analyzing-Customer-Churn-in-Power-BI
+![Uploading image.png…]()
+
 Case Study: Analysing Customer Churn in Power Bi For subscription-based businesses, reducing customer churn is a top priority.
 Databel - An telecom company who are trying to find reason why its customer are churning ie: leaving there services, what it can do to stop it, where the real problem lies, what should there services focus on etc.
 Analyzing churn involves more than just identifying the churn rate; it also requires understanding the reasons behind customer churn and finding ways to reduce it. I have addressed these issues by developing specific measures and calculated columns, as well as designing visually appealing report pages.
@@ -17,5 +19,4 @@ Some detailed key insights uncovered:
 - Customers on monthly contracts have a significantly higher churn rate of 46.29% compared to those on yearly contracts, which have a churn rate of only 6.62%.
 - The churn rate for customers with unlimited data plans is 32.11%, which is notably higher than 16.10% churn rate for those without unlimited data plans.
 - The most common reasons for churn are related to competitors, including better offers (44.82%) and better products or services (15.98%)
-![image](https://github.com/Akshay710/Case-Study-Analyzing-Customer-Churn-in-Power-BI/assets/36403171/f9f72ea1-7c2a-4879-88b7-82478cdd994f)
 
